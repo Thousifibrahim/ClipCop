@@ -148,7 +148,7 @@ Project layout
 - pom.xml — build and plugin configuration
 
 License
-This project is licensed under the MIT License. See the `LICENSE` file for full terms.
+This project is licensed under the MIT License. See the  MIT `LICENSE` file for full terms.
 
 Contact
 Thousif Ibrahim  
